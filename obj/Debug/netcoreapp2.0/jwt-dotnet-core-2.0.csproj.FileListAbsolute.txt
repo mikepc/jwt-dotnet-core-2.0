@@ -1,0 +1,10 @@
+/Users/michael/src/jwt-dotnet-core-2.0/obj/Debug/netcoreapp2.0/jwt-dotnet-core-2.0.csproj.CoreCompileInputs.cache
+/Users/michael/src/jwt-dotnet-core-2.0/obj/Debug/netcoreapp2.0/jwt-dotnet-core-2.0.AssemblyInfoInputs.cache
+/Users/michael/src/jwt-dotnet-core-2.0/obj/Debug/netcoreapp2.0/jwt-dotnet-core-2.0.AssemblyInfo.cs
+/Users/michael/src/jwt-dotnet-core-2.0/bin/Debug/netcoreapp2.0/jwt-dotnet-core-2.0.deps.json
+/Users/michael/src/jwt-dotnet-core-2.0/bin/Debug/netcoreapp2.0/jwt-dotnet-core-2.0.runtimeconfig.json
+/Users/michael/src/jwt-dotnet-core-2.0/bin/Debug/netcoreapp2.0/jwt-dotnet-core-2.0.runtimeconfig.dev.json
+/Users/michael/src/jwt-dotnet-core-2.0/bin/Debug/netcoreapp2.0/jwt-dotnet-core-2.0.dll
+/Users/michael/src/jwt-dotnet-core-2.0/bin/Debug/netcoreapp2.0/jwt-dotnet-core-2.0.pdb
+/Users/michael/src/jwt-dotnet-core-2.0/obj/Debug/netcoreapp2.0/jwt-dotnet-core-2.0.dll
+/Users/michael/src/jwt-dotnet-core-2.0/obj/Debug/netcoreapp2.0/jwt-dotnet-core-2.0.pdb
